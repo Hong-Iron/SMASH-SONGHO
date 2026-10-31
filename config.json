@@ -1,0 +1,77 @@
+{
+  "code": "SONGHO",
+  "title": "SMASH SONGHO",
+  "school": "송호대",
+  "fullName": "송호대학교",
+  "campusName": "송호대학교",
+  "tagline": "송호대를 부셔 (시험기간 스트레스 해소)",
+  "description": "송호대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 송호대학교 3D 화면과 SMASH SONGHO 제목",
+  "url": "https://hong-iron.github.io/SMASH-SONGHO/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 468643635
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "송호관": {
+      "style": "ribbon",
+      "wall": "#9a7f7a",
+      "glass": "#3c463f",
+      "frame": "#c3c6cc"
+    },
+    "창조관": {
+      "style": "brick",
+      "wall": "#957a78",
+      "glass": "#34403f",
+      "frame": "#b9bec4"
+    },
+    "도약관": {
+      "style": "brick",
+      "wall": "#c99a84",
+      "glass": "#34413d",
+      "frame": "#d6dde2"
+    },
+    "웰빙관": {
+      "style": "stone",
+      "wall": "#e8b8a4",
+      "glass": "#4f8a8e",
+      "frame": "#8fc293"
+    },
+    "월계관": {
+      "style": "stone",
+      "wall": "#dcdfdb",
+      "glass": "#2a3040",
+      "frame": "#c8ccc8",
+      "roof": "#c8dcd6",
+      "hip": true
+    },
+    "진선미관": {
+      "style": "brick",
+      "wall": "#a8857f",
+      "glass": "#3d4550",
+      "frame": "#e2e8ef"
+    },
+    "남자기숙사": {
+      "style": "dorm",
+      "wall": "#f4ece2",
+      "glass": "#2a4a50",
+      "frame": "#e0dad0"
+    },
+    "여자기숙사": {
+      "style": "dorm",
+      "wall": "#e2ddd5",
+      "glass": "#3c7a82",
+      "frame": "#aab0b2"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
